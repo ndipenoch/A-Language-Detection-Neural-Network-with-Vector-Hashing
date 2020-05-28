@@ -17,6 +17,7 @@ The user will then be asked if they will like to predict another language using 
 #### How To Run Application
 Place the file "wili-2018-Small-11750-Edited.txt" in the current directory like the jar file. </b><br>
 Go to the CLI in the directory and run: java -cp ./language-nn.jar ie.gmit.sw.Runner</b><br>
+PS: The Jar was compile using Java 11.1, to run the jar you must have java 11.1 or above.
 
 
 ## DESIGN
